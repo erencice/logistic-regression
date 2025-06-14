@@ -8,9 +8,10 @@ This project demonstrates the use of logistic regression to predict customer sat
 
 ```
 logistic-regression/
-├── main-en.ipynb       # Jupyter Notebook with the full analysis and implementation
-├── README.md           # Project documentation
-├── Invistico_Airline.csv # Dataset used for the analysis
+├── main-en.ipynb         # Jupyter Notebook with the full analysis and implementation
+├── main-tr.ipynb         # Jupyter Notebook with the full analysis and implementation ( in Turkish )
+├── README.md             # Project documentation
+├── Invistico_Airline.csv # Dataset used for the analysis and modelling
 ```
 
 ---
