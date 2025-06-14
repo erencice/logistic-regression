@@ -32,12 +32,7 @@ logistic-regression/
    cd logistic-regression
    ```
 
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Ensure the dataset `Invistico_Airline.csv` is in the project directory.
+2. Ensure the dataset `Invistico_Airline.csv` is in the project directory.
 
 ---
 
